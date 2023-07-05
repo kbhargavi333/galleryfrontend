@@ -53,7 +53,7 @@ export default function App() {
                     <p class="ptag">Memories preserved in a home video on VHS are at the mercy of how well the technology holds up. VHS tapes can get damaged and discolored over 
                     time if exposed to heat, moisture, or if broken. VCR players are not as widely available as they once were. Even DVDs are being phased out. Transferring these memories 
                     in to digital lives longer.</p>
-                    <img id='img' src='https://cdn-bcfmk.nitrocdn.com/fYEZdJKjvuXkKgFpeJrbqdViLvHKUQUB/assets/images/optimized/rev-b721f14/wp-content/uploads/2022/05/03-events-2048x1365.jpeg'/>
+                    <img id='img' src='https://amendo.com/wp-content/uploads/2021/10/bigstock-African-Family-Watching-Tv-Mov-417110977.jpg'/>
                 </div>
                 <h3>Keep your find memories close</h3>
                 <div className='container1'>
