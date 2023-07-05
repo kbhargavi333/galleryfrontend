@@ -20,7 +20,7 @@ export default function Navigation() {
            <p><NavLink  eventKey="3" as={Link} to="/photos"><MdOutlinePhotoSizeSelectActual/>&nbsp;Photos</NavLink></p>
            <p><NavLink  eventKey="4" as={Link} to="/favourites"><AiOutlineStar className="icon"/>&nbsp;Favourites</NavLink></p>
            <p><NavLink  eventKey="5" as={Link} to="/Trash"><BsTrash/>&nbsp;Trash</NavLink></p>
-           <Link to='https://drive.google.com/drive/folders/1QPNKvmJUIW9H22DcjJS69ateKVoYOJAP' className="logout">Logout</Link>
+           <Link to='https://loginfrontend-170q.onrender.com' className="logout">Logout</Link>
       </div>
     </Nav>
     </Navbar.Collapse>    
